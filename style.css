@@ -1,0 +1,29 @@
+#querries{
+   background-color: #2e85d1;
+   height:400px ;
+   width: 500px;
+   position:absolute;
+   top: 100px;
+   left: 90px;
+}
+
+.one{
+background-color: black;
+height: 150px;
+width:150px ;
+bottom: 10px;
+right: 10px;
+position: absolute;
+
+
+}
+
+.two{
+    background-color: #df1c1c;
+    height: 50px;
+    width: 100px;
+    position:absolute ;
+    bottom: 10px;
+    right: -50px;
+    
+    }
